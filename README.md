@@ -1,0 +1,1 @@
+Really Specific software for me to easily change my spotify songs or play and stop it without disturbing other audio like a youtube vid. Uses the spotify api and has an extra function incase its paused and the api cant wake it.
